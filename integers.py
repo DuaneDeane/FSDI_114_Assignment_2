@@ -1,4 +1,4 @@
-# Credit for code come from GeekofGeeks and Codecademy
+# Did code research and credit goes to GeekofGeeks and Codecademy
 
 def productArray(arr, n): 
 
